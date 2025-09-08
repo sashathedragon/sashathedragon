@@ -5,6 +5,7 @@ void setup() {
 }
 //blabllllaa
 //wthelly
+//ching chang chong, riisi valmis on
 void loop() {
   // put your main code here, to run repeatedly:
 
