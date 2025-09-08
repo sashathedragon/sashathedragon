@@ -4,6 +4,7 @@ void setup() {
  jamo ei ole kova
 }
 //blabllllaa
+//wthelly
 void loop() {
   // put your main code here, to run repeatedly:
 
